@@ -1,5 +1,5 @@
 import re
-file = open("/home/ernesto/Desktop/AdventofCode2020/Day04/day04_input.txt","r")
+file = open"../AdventofCode2020/Day04/day04_input.txt")
 file = file.readlines()
 
 

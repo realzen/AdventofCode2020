@@ -50,7 +50,7 @@
 
 # Starting at the top-left corner of your map and following a slope of right 3 and down 1, how many trees would you encounter?
 print("Running.....")
-file1 = open('/home/ernesto/Desktop/AdventofCode2020/Day03/day03_input.txt', 'r') 
+file1 = open('../AdventofCode2020/Day03/day03_input.txt') 
 Lines = file1.readlines()
 list_lines = []
 # ADD TO LIST

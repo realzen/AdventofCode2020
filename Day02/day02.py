@@ -19,7 +19,7 @@
 # How many passwords are valid according to their policies?
 
 print("Running.....")
-file1 = open('/home/ernesto/Desktop/AdventofCode2020/Day02/day02_input.txt', 'r') 
+file1 = open('../AdventofCode2020/Day02/day02_input.txt') 
 Lines = file1.readlines()
 list_lines = []
 # ADD TO LIST

@@ -24,7 +24,7 @@
 # Of course, your expense report is much larger. Find the two entries that sum to 2020; what do you get if you multiply them together?
 
 print("Running.....")
-file1 = open('/home/ernesto/Desktop/AdventOfCode2020/Day01/day01_input.txt', 'r') 
+file1 = open('/Users/ernestovaldez/Desktop/github/AdventofCode2020/Day05/day05_input.txt', 'r') 
 Lines = file1.readlines()
 count = 0
 d = {}
